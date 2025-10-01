@@ -42,4 +42,4 @@ Currently learning **Django, Laravel, MERN, Data Analytics, and Digital Marketin
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krupalmehta)  
 
 ---
-⭐️ From [Krupal Mehta](https://github.com/krupalmehta)  
+⭐️ From [Krupal Mehta](https://github.com/krupalmehta2)  
